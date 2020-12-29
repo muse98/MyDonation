@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "myDonationExists",
+        "transactionLabel": "A test myDonationExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createMyDonation",
+        "transactionLabel": "A test createMyDonation transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readMyDonation",
+        "transactionLabel": "A test readMyDonation transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateMyDonation",
+        "transactionLabel": "A test updateMyDonation transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteMyDonation",
+        "transactionLabel": "A test deleteMyDonation transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
